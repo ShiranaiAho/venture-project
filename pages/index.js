@@ -2,7 +2,7 @@ import Head from 'next/head'
 import Register from '../components/register'
 import Sidebar from '../components/Sidebar'
 import Footer from '../components/Footer'
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Title.module.css'
 
 export default function Home() {
   return (
